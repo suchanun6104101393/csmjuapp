@@ -13,7 +13,9 @@ class MyApp extends StatelessWidget {
       title: 'CSMJU APP',
       theme: ThemeData(
     
-        primarySwatch: Colors.grey,
+        primaryColor: Colors.white,
+        
+
       ),
       
       home:Home() ,
