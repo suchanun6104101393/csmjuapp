@@ -12,10 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'CSMJU APP',
       theme: ThemeData(
-    
         primaryColor: Colors.white,
-        
-
       ),
       
       home:Home() ,
